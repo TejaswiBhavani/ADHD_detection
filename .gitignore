@@ -1,6 +1,15 @@
-venv*/ 
-__pycache__/ 
-*.pyd 
-*.lib 
-*.caffemodel 
-*.docx 
+"venv_py37/" 
+"venv_py37/" 
+".venv/" 
+"venv/" 
+"venv_py37/" 
+"venv_py38/" 
+".venv/" 
+"__pycache__/" 
+"*.pyc" 
+"*.pyd" 
+"*.lib" 
+"Models/"   # If you don't need to track models
+"SCREENS.docx"   # This is 3.1MB - consider removing
+"venv_py37/" 
+"venv_py37/" 
